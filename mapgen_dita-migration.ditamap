@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Migration Proposal</title>
+ <topicref href="dita-migration_intro.dita"/>
+ <topicref href="dita-migration_intro_how2use.dita"/>
+ <topicref href="dita-migration_intro_show-stoppers.dita"/>
+ <topichead navtitle="Resource-only Content" processing-role="resource-only">
+  <topicref href="mapkeys_dita-migration.ditamap" format="ditamap"/>
+ </topichead>
+</map>
