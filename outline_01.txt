@@ -1,54 +1,61 @@
+===========================
+    WORKING OUTLINE
+  DITA Migrations Domain
+===========================
 
-A. Introduction
+A. Introduction (Stan)
    - Audiences 
-   - Deliverables
+   - Phases and deliverables (DITA, Powerpoint)
+   - How to use this domain
    - ST- and LT-ROI
       
-B. Required pieces -- implementation / 
+B. Required pieces for a successful implementation
+   - DITA-compliant editor
+   - Processor(s)
+   - What you do not need initially
 
+C. Identifying current challenges/pain-points (Jane)
+   - What are the common challenges facing teams 
+     considering DITA?
+     > redundancy?
+     > $L10N
+     > Content management / findability
+     > Common business drivers?
+   - How can DITA can address/solve these challenges for you?
+   - Need to know your content - what stays inlegacy, what 
+     needs to move to DITA?
 
-
-C. Identifying current challenges (often pain points)
-   - How DITA can solve these challenges for you.
-   - Powerpoint structure - \
-   - Check - business drivers   
-
-   - redundancy
-   - $L10N
-   - Need to know your content 
-   - Content management / findability
-   - 
-
-Planning
-- phasing -which teams jump first? last?
-- timetables
-- pilots and evangelists, rolling education and implementation
-- production cycles
-- update FM content to e more DITA - compliant BEFORE actual conversion
-- basic concepts accessible to people in their current authoring tool
-- size of the organization? 
-- training / skills
-- core team skills (willingness to learn / adapt)
-- Different best practices for how fast you need to do it
-  > New people
-  > New projects
-  > All-at-once migratons
-  > More gradual migrations
-- Legacy content strategy (ROI)
-  > Where is the break-evem level?>
-- Relationship with product UIs 
-  > Opportunities to start fresh 
-  > Choose your battles
+D. Planning
+   - phasing -which teams jump first? last?
+   - timetables
+   - pilots and evangelists, rolling education and implementation
+   - production cycles
+   - parallel migration - updating legacy content to be more 
+     DITA-like
+     > Approach DITA compiancy before actual conversion
+   - how many basic DITA concepts are accessible to people in 
+     their current authoring tool?
+   - size of the organization? 
+   - training / skills
+   - core team skills (willingness to learn / adapt)
+   - Different best practices for how fast you need to do it
+     > New people
+     > New projects
+     > All-at-once migratons
+     > More gradual migrations
+   - Legacy content strategy (ROI)
+     > Where is the break-even level?>
+   - Relationship with product UIs 
+     > Opportunities to start fresh (content/UI)
+     > Choose your battles
    
-Getting your team ready for DITA   
-- Analyzing your content 
-- How to minimize attrition 
-- How do you preserve pride in their work
-- Early adopters - advisors to other teams / ambassadors
-- Go-to consultants - 
+E. Getting your team ready for DITA   
+   - Analyzing your content 
+   - How to minimize attrition 
+   - How do you preserve pride in their work
+   - Early adopters - advisors to other teams / ambassadors
+   - Go-to consultants - 
 
-
-   
 F. Common risks
 
 G. Roles
