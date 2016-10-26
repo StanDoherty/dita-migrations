@@ -3,7 +3,7 @@
   DITA Migrations Domain
 ===========================
 
-A. Introduction (Stan)
+A. Introduction (Stan) 
    - Audiences 
    - Phases and deliverables (DITA, Powerpoint)
    - How to use this domain
