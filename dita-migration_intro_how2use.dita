@@ -5,7 +5,6 @@
  <shortdesc>This topic provides an overview of the XML source content in this domain and how your
   might adapt that content to  your needs. </shortdesc>
  <conbody>
-  <p></p>
   <section id="section_xrx_scq_rx">
    <title>Key names available in this domain </title>
    <p>The DITA map named <filepath>mapkeys_dita-migration.ditamap</filepath> contains a collection
