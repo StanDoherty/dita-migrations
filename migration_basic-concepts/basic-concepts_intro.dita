@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_basic-concepts_intro">
+
+
+ <title>Information architecture</title>
+
+ <conbody>
+    <p class="- topic/p ">This section provides descriptions of the information architecture
+      principles that guide the design of our XML markup, editorial standards, and technical
+      infrastructure. </p>
+ </conbody>
+
+</concept>
+
