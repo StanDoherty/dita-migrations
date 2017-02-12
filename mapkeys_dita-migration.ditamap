@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Keys - DITA Migration Proposal</title>
+ <title>Keys - DITA Migration Guide</title>
  <!-- SDoherty (10-20-2016): Created his key and set the default value. -->
  <keydef keys="k_kw_migrate_org-name"><topicmeta><keywords><keyword>[YOUR-ORG-NAME]</keyword></keywords></topicmeta></keydef>
  <keydef keys="k_kw_migrate_product-name-1"><topicmeta><keywords><keyword>[YOUR-PRODUCT-NAME]</keyword></keywords></topicmeta></keydef>
  <keydef keys="k_kw_migrate_product-name-2"><topicmeta><keywords><keyword>[YOUR-PRODUCT-NAME-2]</keyword></keywords></topicmeta></keydef>
  <keydef keys="k_kw_migrate_proposal-title"><topicmeta><keywords><keyword>[YOUR-PROPOSAL-TITLE]</keyword></keywords></topicmeta></keydef>
+ <keydef keys="k_kw_migrate_guide-title"><topicmeta><keywords><keyword>DITA Migration Guide</keyword></keywords></topicmeta></keydef>
 <!-- End of key definitions -->
 </map>
