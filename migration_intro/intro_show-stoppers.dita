@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zvz_vzp_rx">
+ <title>Before you begin – a few considerations . . .</title>
+ <shortdesc>This topic provides an overview of some show-stopper issues for organizations
+  considering a DITA migration. </shortdesc>
+ <conbody>
+  <p>At the end of the day, most DITA migration proposals seek to "close the deal" with a few
+   critical selling points: </p>
+  <ul id="ul_e1n_51q_rx">
+   <li>
+    <p>Industrystandards content consistency (markup and metadata)</p>
+   </li>
+   <li>
+    <p>Content reuse</p>
+   </li>
+   <li>
+    <p>Lower translation costs</p>
+   </li>
+   <li>
+    <p>Long-term writer productivity gains – do more with fewer people </p>
+   </li>
+   <li>
+    <p>Content management and sharing</p>
+   </li>
+   <li>
+    <p>Output consistency across product lines and deveolopment sites</p>
+   </li>
+   <li>
+    <p>Integration with corporate publishing portals</p>
+   </li>
+  </ul>
+  <p>Although these tend to be compelling business drivers for most companies, you may be working in
+   or for an organization that has an alternate set of values and priorities. Before you invest your
+   evenings and weekends in developing a migration proposal, you should pause for a moment to
+   consider the following potential show-stoppers. </p>
+  <ul id="ul_qwf_bcq_rx">
+   <li>
+    <p>Home-grown tooling</p>
+   </li>
+   <li>
+    <p>Home-grown processes </p>
+   </li>
+   <li>
+    <p>Special snowflakes</p>
+   </li>
+   <li>
+    <p>One person's concept of waste . . . </p>
+   </li>
+   <li>
+    <p>Feathered nests </p>
+   </li>
+   <li>
+    <p>Tail of the dog </p>
+   </li>
+   <li>
+    <p>The Maginot line  </p>
+   </li>
+   <li>
+    <p>zero-cost migration</p>
+   </li>
+   <li>
+    <p>zero-attrition migration</p>
+   </li>
+   <li>
+    <p>zero-disruption migration</p>
+   </li>
+   <li>
+    <p>bad content miracle cure</p>
+   </li>
+  </ul>
+ </conbody>
+</concept>

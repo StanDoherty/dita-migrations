@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>DITA Migration Proposal</title>
- <topicref href="dita-migration_intro.dita"/>
+ <topicref href="migration_intro/mapgen_intro.ditamap" format="ditamap"/>
  <topicref href="migration_basic-concepts/mapgen_basic-concepts.ditamap" format="ditamap"/>
  <topicref href="dita-migration_intro_how2use.dita"/>
  <topicref href="dita-migration_intro_show-stoppers.dita"/>
