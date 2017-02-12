@@ -3,6 +3,7 @@
 <map>
  <title>DITA Migration Proposal</title>
  <topicref href="dita-migration_intro.dita"/>
+ <topicref href="migration_basic-concepts/mapgen_basic-concepts.ditamap" format="ditamap"/>
  <topicref href="dita-migration_intro_how2use.dita"/>
  <topicref href="dita-migration_intro_show-stoppers.dita"/>
  <topichead navtitle="Resource-only Content" processing-role="resource-only">
