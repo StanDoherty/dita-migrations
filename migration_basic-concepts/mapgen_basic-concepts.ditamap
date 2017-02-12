@@ -15,13 +15,13 @@
    </topicmeta>
 
    <topicref href="basic-concepts_intro.dita" class="- map/topicref ">
-      <topicref href="basic-concepts_content-context.dita" class="- map/topicref "/>
+      <topicref href="basic-concepts_vocabs-grammars.dita" class="- map/topicref "/>
+      <topicref href="basic-concepts_hierarchy-inheritance.dita" class="- map/topicref "/>
       <topicref href="basic-concepts_static-dynamic.dita" class="- map/topicref "/>
       <topicref href="basic-concepts_infotype-semantic.dita" class="- map/topicref "/>
-      <topicref href="basic-concepts_vocabs-grammars.dita" class="- map/topicref "/>
       <topicref href="basic-concepts_linear-modular-architecture.dita" class="- map/topicref "/>
       <topicref href="basic-concepts_linear-modular.dita" class="- map/topicref "/>
-      <topicref href="basic-concepts_hierarchy-inheritance.dita" class="- map/topicref "/>
+      <topicref href="basic-concepts_content-context.dita" class="- map/topicref "/>
 
       <topichead navtitle="Topics under contruction">
          <topicref href="basic-concepts_repos-builds-deliv.dita" class="- map/topicref "/>

@@ -3,12 +3,16 @@
 <concept id="concept_basic-concepts_intro">
 
 
- <title>Information architecture</title>
+ <title>Basic Concepts in XML DITA</title>
 
  <conbody>
-    <p class="- topic/p ">This section provides descriptions of the information architecture
-      principles that guide the design of our XML markup, editorial standards, and technical
-      infrastructure. </p>
+    <p class="- topic/p ">Before you and your team begin your journey, consider reviewing some of
+      the basic concepts underlying XML and DITA. Discovering where you team can achieve consensus
+      and where you agree to disagree will help during subsequent phases of a migration when you
+      need to make tradeoffs in your goals, design, or schedule.   </p>
+    <note type="tip">
+      <p>You will <i>always</i> need to make tradeoffs and compromises. </p>
+    </note>
  </conbody>
 
 </concept>

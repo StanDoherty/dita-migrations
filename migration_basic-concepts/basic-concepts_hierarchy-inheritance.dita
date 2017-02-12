@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_basic-concepts_hierarchy-inheritance-precedence">
- <title>About hierarchy, inheritance, and precedence</title>
+ <title>About Hierarchy, Inheritance, and Precedence</title>
 
  <conbody>
-<p class="- topic/p ">All markup languages must support various flavors of containment – hierarchy
-            and inheritance. </p><section id="section_cpz_lgs_ky" class="- topic/section "><title class="- topic/title ">Hierarchy</title><p class="- topic/p ">Hierarchical containers are block elements such as tables, lists, or sections
-        that can contain subordinate elements such as rows, columns, list items, or paragraphs. All
-        elements in a hierarchical structure are, relative to one another, considered parents,
-        children, or siblings (peers). </p>
-      <p class="- topic/p ">The following unordered list (<msgph class="+ topic/ph sw-d/msgph ">&lt;ul&gt;</msgph>) in XML DITA illustrates a simple
-        hierarchy.   </p><p class="- topic/p ">
+<p class="- topic/p ">Although XML implementations share similar notions of grammar and vocabulary,
+      they part company when it comes to how they implement hierarchy, inheritance, and precedence. </p><section id="section_cpz_lgs_ky" class="- topic/section "><title class="- topic/title ">Hierarchy</title><p class="- topic/p ">Any element that contains another element is in a hierarchy of sorts. At a
+        basic level, consider block elements such as tables, lists, or sections that can contain
+        subordinate elements such as rows, columns, list items, or paragraphs. At a more
+        sophisticated level, consider multiple levels of DITA maps. All elements in a hierarchical
+        structure are, relative to one another, considered parents, children, or siblings (peers). </p>
+      <p class="- topic/p ">The following unordered list (<msgph class="+ topic/ph sw-d/msgph "
+          >&lt;ul&gt;</msgph>) in XML DITA illustrates a simple containment hierarchy. </p><p class="- topic/p ">
             <image placement="inline" href="graphics/png_hierarchy-example.png" class="- topic/image "/>
          </p>
       <p class="- topic/p ">The two <msgph class="+ topic/ph sw-d/msgph ">&lt;li&gt;</msgph>
@@ -39,7 +40,7 @@
         parent element to cascade automatically to all subordinate child elements in its
         hierarchical block. In the following example, the value "internal" for the attribute
         @audience is specified for the parent block element <msgph class="+ topic/ph sw-d/msgph "
-          >&lt;ul&gt;</msgph>. </p><codeblock class="+ topic/pre pr-d/codeblock ">&lt;ul audience="internal"&gt;
+          >&lt;ul&gt;</msgph>. </p><codeblock class="+ topic/pre pr-d/codeblock ">&lt;ul <b>audience="internal"</b>&gt;
   &lt;li&gt;
     &lt;p&gt;Text in a paragraph. &lt;/p&gt;
       &lt;note&gt;
@@ -50,9 +51,9 @@
     &lt;p&gt;More text in a different paragraph. &lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</codeblock>
-      <p class="- topic/p ">Inheritance silently applies all attribute values defined for a parent element to all
-        direct and indirect child elements as though you added the attribute to each child element
-        manually. </p>
+      <p class="- topic/p ">DITA inheritance rules silently apply all attribute values defined for a
+        parent element to all direct and indirect child elements as though you added the inherited
+        attribute to each child element manually. </p>
       <codeblock class="+ topic/pre pr-d/codeblock ">&lt;ul <b>audience="internal"</b>&gt;
   &lt;li <b>audience="internal"</b>&gt; 
     &lt;p <b>audience="internal"</b>&gt;Text in a paragraph. &lt;/p&gt;
