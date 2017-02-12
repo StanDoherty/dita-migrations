@@ -27,5 +27,10 @@
     <p>This <cite><keyword keyref="k_kw_migrate_guide-title"/></cite> provides a framework within
       which the OASIS DITA Adoption Technical Committee can capture the collective wisdom and
       experience of the DITA community regarding DITA migrations. Welcome to the conversation. </p>
+    <p>This project, sponsored by the OASIS DITA Adoption Technical Committee, seeks to provide you
+      with a lot of ready-to-reuse information about the many benefits of migrating to DITA
+        <i>and</i> (importantly) some of the trade-offs and risks that also need to be put on the
+      table. The strongest migration proposal for DITA is one that is balanced, data-driven, and
+      sensitive to the disruption that DITA can cause. </p>
   </body>
 </topic>

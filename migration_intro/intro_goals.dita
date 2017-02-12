@@ -1,53 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_f1f_kr3_rx">
- <title>Goals for this migration proposal domain</title>
- <shortdesc>This topic provides context for what is in this domain and how you can make use of it. </shortdesc>
+ <title>The Glass Half Full . . .</title>
  <conbody>
-  <p>The OASIS Darwin Information Architecture (hereafter DITA) is simultaneously highly disruptive
-   and highly beneficial technology for organizations. Whether you have worked with DITA for many
-   years or have just started working with it, the arguments in favor of migrating to DITA seem to
-   us true believers to be logical, compelling, and self-evident. Shouldn't we just lay out the
-   benefits to senior management in a few slides, order our "I love DITA" T-shirts, and get ready to
-   cash those blank checks? What could possibly go wrong?</p>
-  <p>This project, sponsored by the OASIS DITA Adoption Technical Committee, seeks to provide you
-   with a lot of ready-to-customize information about the many benefits of migrating to DITA
-    <i>and</i> (importantly) some of the trade-offs and risks that also  need to be put on the
-   table. The strongest migration proposal for DITA is one that is balanced, data-driven, and
-   sensitive to the disruption that DITA will cause. </p>
-  <p>Although this sounds a bit daunting, there is some really good news for you to consider up
-   front. </p>
-  <ul id="ul_apd_ky3_rx">
+  <p>Most DITA migration proposals seek funding or approval from senior management on the basis of
+   the technical benefits offered by DITA. These benefits can be quite attarctive to organizations
+   seeking any of the following:</p>
+  <ul id="ul_e1n_51q_rx">
    <li>
-    <p><i>The DITA architecture is an open industry standard</i>: Most desktop authoring tools and
-     all of the "complete solution" suites are based on proprietary file/content formats,
-     proprietary authoring interfaces, proprietary processing, and (often) proprietary content
-     management. If you have developed your content in one of these environments, you are quite
-     probably locked into the whole package – content format, tools, everything. Building your
-     content on an open industry standard is the key. Any authoring, processing, or content
-     management tools that are compatible with the underlying standard should be interchangeable (in
-     theory). When it comes to DITA-compliant authoring, processing, and content management tools,
-     "proprietary" is not a dirty word. Being able to switch out tools without having to reimplement
-     reformat the underlying content is a big deal. DITA being an open industry standard supported
-     my open-source and commercial tools developers protects an organization's investment in the
-     underlying content. </p>
+    <p><i>Industry-standard markup and metadata</i>: Most desktop authoring tools and all of the
+     "complete solution" suites are based on proprietary file/content formats, proprietary authoring
+     interfaces, proprietary processing, and (often) proprietary content management. If you have
+     developed your content in one of these environments, you are quite probably locked into the
+     whole package – content format, tools, everything. Building your content on an open industry
+     standard is the key. Any authoring, processing, or content management tools that are compatible
+     with the underlying standard should be interchangeable (in theory). When it comes to
+     DITA-compliant authoring, processing, and content management tools, "proprietary" is not a
+     dirty word. Being able to switch out tools without having to reimplement reformat the
+     underlying content is a big deal. DITA being an open industry standard supported my open-source
+     and commercial tools developers protects an organization's investment in the underlying
+     content. </p>
    </li>
    <li>
-    <p><i>Many organizations in many markets have experience with DITA</i>: DITA has been in the
-     market as an OASIS standard for over ten years. The likelihood that your organization is facing
-     unique or significantly different requirements is probably small. In the cumulative library of
-     relevant case studies, whitepapers, conference presentations, webinars, and user group notes,
-     you <i>will</i> find information that is directly relevant to your particular market and/or
-     audience.    </p>
+    <p><i>Community development and support</i>: DITA has been in the market as an OASIS standard
+     for over ten years. The likelihood that your organization is facing unique or significantly
+     different requirements is probably small. In the cumulative library of relevant case studies,
+     whitepapers, conference presentations, webinars, and user group notes, you <i>will</i> find
+     information that is directly relevant to your particular market and/or audience. With so many
+     companies using DITA, there are abundant training, consulting, and community resources
+     available to you as you begin your investigation.</p>
     <note type="tip">To identify other companies that have adopted DITA in your region or in your
      market, consider browsing the listing at <xref
       href="http://www.ditawriter.com/companies-using-dita/" format="html" scope="external"
       >Companies Using DITA</xref>. </note>
-   </li>
-   <li>
-    <p><i>You are not alone</i>: With so many companies using DITA, there are abundant training,
-     consulting, and community resources available to you as you begin your investigation. See
-     Appendix X "DITA Resources."</p>
    </li>
    <li>
     <p><i>DITA sells itself</i>: In addition to this migration proposal domain, there are numerous
@@ -55,7 +40,7 @@
      tools and sample sources in order to demonstrate how DITA works, how it behaves in an authoring
      tool, how processors generate multiple output types, and how its modular architecture supports
      agile content reuse. Some percentage of the people who are most skeptical about DITA have
-     rarely or never touched it or seen it live.  </p>
+     rarely or never touched it or seen it live. </p>
    </li>
    <li>
     <p><i>DITA is for people too</i>: Yes, DITA can be a playground for XML nerds, but it is also
@@ -69,18 +54,35 @@
      the people stuff – roles, careers, recruiting, mentoring, productivity, resistance, change
      management, and so on. One of the two most common mistakes in selling a DITA migration involves
      a lack of investment in selling the people affected by the migration. Not all of them need to
-     agree with you, but they are all stakeholders and need to be treated as such.   </p>
+     agree with you, but they are all stakeholders and need to be treated as such. </p>
     <note type="tip">A good place to start your investigation about DITA roles would be the OASIS
      DITA Adoption whitepaper <xref
       href="https://www.oasis-open.org/committees/download.php/50770/DITA_Roles_Responsibilities_final.pdf"
-      format="pdf" scope="external">Roles and Responsibilities of a DITA Adoption</xref>.  </note>
+      format="pdf" scope="external">Roles and Responsibilities of a DITA Adoption</xref>. </note>
    </li>
    <li>
-    <p/>
+    <p>Content reuse</p>
    </li>
    <li>
-    <p/>
+    <p>Lower translation costs</p>
+   </li>
+   <li>
+    <p>Long-term writer productivity gains – do more with the same or fewer people </p>
+   </li>
+   <li>
+    <p>Content management and sharing</p>
+   </li>
+   <li>
+    <p>Output consistency across product lines and development sites</p>
+   </li>
+   <li>
+    <p>Integration with corporate publishing portals</p>
+   </li>
+   <li>
+    <p>Integration with other engineering infrastructure </p>
    </li>
   </ul>
+  <p>Although this sounds a bit daunting, there is some really good news for you to consider up
+   front. </p>
  </conbody>
 </concept>

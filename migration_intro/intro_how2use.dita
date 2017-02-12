@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_svt_4zp_rx">
- <title>How to use this domain</title>
- <shortdesc>This topic provides an overview of the XML source content in this domain and how your
-  might adapt that content to  your needs. </shortdesc>
+ <title>How to Reuse Contents in This Guide</title>
  <conbody>
+  <section id="section_z4b_t3p_xy">
+   <p>DITA is all about reuse. A significant amount of material in this guide may be useful to you
+    as source material in crafting a DITA migration proposal in your own organization. Please do so.
+    Here are a few tips that may help you in reusing these DITA sources. </p>
+  </section>
   <section id="section_xrx_scq_rx">
    <title>Key names available in this domain </title>
    <p>The DITA map named <filepath>mapkeys_dita-migration.ditamap</filepath> contains a collection
