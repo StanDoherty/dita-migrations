@@ -4,8 +4,6 @@
  <title>DITA Migration Guide</title>
  <topicref href="migration_intro/mapgen_intro.ditamap" format="ditamap"/>
  <topicref href="migration_basic-concepts/mapgen_basic-concepts.ditamap" format="ditamap"/>
- <topicref href="dita-migration_intro_how2use.dita"/>
- <topicref href="dita-migration_intro_show-stoppers.dita"/>
  <topichead navtitle="Resource-only Content" processing-role="resource-only">
   <topicref href="mapkeys_dita-migration.ditamap" format="ditamap"/>
  </topichead>
