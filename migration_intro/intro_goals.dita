@@ -12,9 +12,10 @@
      "complete solution" suites are based on proprietary file/content formats, proprietary authoring
      interfaces, proprietary processing, and (often) proprietary content management. If you have
      developed your content in one of these environments, you are quite probably locked into the
-     whole package – content format, tools, everything. Building your content on an open industry
-     standard is the key. Any authoring, processing, or content management tools that are compatible
-     with the underlying standard should be interchangeable (in theory). When it comes to
+     whole package – content format, tools, everything. </p>
+    <p>Building your content on an open industry standard like DocBook or DITA is key to avoiding
+     technology or vendor lock-in. Any authoring, processing, or content management tools that are
+     compatible with the underlying standard should be interchangeable (in theory). When it comes to
      DITA-compliant authoring, processing, and content management tools, "proprietary" is not a
      dirty word. Being able to switch out tools without having to reimplement reformat the
      underlying content is a big deal. DITA being an open industry standard supported my open-source
@@ -23,12 +24,13 @@
    </li>
    <li>
     <p><i>Community development and support</i>: DITA has been in the market as an OASIS standard
-     for over ten years. The likelihood that your organization is facing unique or significantly
-     different requirements is probably small. In the cumulative library of relevant case studies,
-     whitepapers, conference presentations, webinars, and user group notes, you <i>will</i> find
-     information that is directly relevant to your particular market and/or audience. With so many
-     companies using DITA, there are abundant training, consulting, and community resources
-     available to you as you begin your investigation.</p>
+     for over ten years. It has been successfully implemented in many markets. The likelihood that
+     your organization is facing unique or significantly different requirements is probably small.
+     In the cumulative library of relevant case studies, whitepapers, conference presentations,
+     webinars, and user group notes, you <i>will</i> find information that is directly relevant to
+     your particular market and/or audience. With so many companies using DITA, there are abundant
+     training, consulting, and community resources available to you as you begin your investigation.
+     Goodness.</p>
     <note type="tip">To identify other companies that have adopted DITA in your region or in your
      market, consider browsing the listing at <xref
       href="http://www.ditawriter.com/companies-using-dita/" format="html" scope="external"
@@ -39,8 +41,8 @@
      sample domains of DITA source content. Without creating any new content, you can download some
      tools and sample sources in order to demonstrate how DITA works, how it behaves in an authoring
      tool, how processors generate multiple output types, and how its modular architecture supports
-     agile content reuse. Some percentage of the people who are most skeptical about DITA have
-     rarely or never touched it or seen it live. </p>
+     agile content reuse. Some percentage of the people who are most skeptical about DITA have not
+     used it or seen it in action. </p>
    </li>
    <li>
     <p><i>DITA is for people too</i>: Yes, DITA can be a playground for XML nerds, but it is also
@@ -54,7 +56,7 @@
      the people stuff – roles, careers, recruiting, mentoring, productivity, resistance, change
      management, and so on. One of the two most common mistakes in selling a DITA migration involves
      a lack of investment in selling the people affected by the migration. Not all of them need to
-     agree with you, but they are all stakeholders and need to be treated as such. </p>
+     agree with you, but they are all stakeholders. </p>
     <note type="tip">A good place to start your investigation about DITA roles would be the OASIS
      DITA Adoption whitepaper <xref
       href="https://www.oasis-open.org/committees/download.php/50770/DITA_Roles_Responsibilities_final.pdf"
@@ -82,7 +84,6 @@
     <p>Integration with other engineering infrastructure </p>
    </li>
   </ul>
-  <p>Although this sounds a bit daunting, there is some really good news for you to consider up
-   front. </p>
+  <p>Although this sounds a bit daunting, there is plenty of good news for you to consider up front. </p>
  </conbody>
 </concept>
