@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Research Phase</title>
+ <!-- Key definition for the name of this migration phase -->  
+   <keydef keys="name_migration-phase-1">
+      <topicmeta>
+         <keywords>
+            <keyword>Research Phase</keyword>
+         </keywords>
+      </topicmeta>
+   </keydef>
+   
+ <!-- Key definition for the name of the sponsoring organization. -->  
+   <keydef keys="name_migration-guide-sponsor">
+      <topicmeta>
+         <keywords>
+            <keyword>TBD-Sponsor</keyword>
+         </keywords>
+      </topicmeta>
+   </keydef>
+
+<!-- Topics -->
+   <topicref href="research_intro/research_intro_top.dita">
+
+    
+   <!-- DITA Overviews -->
+   <topicref href="research_dita-overviews/mapgen_research_dita-overviews.ditamap" format="ditamap"/>
+
+   <!-- DITA Financials -->
+   <topicref href="research_financials/mapgen_research_financials.ditamap" format="ditamap"/>
+
+   <!-- DITA Show Stoppers -->
+   <topicref href="research_show-stoppers/mapgen_research_show-stoppers.ditamap" format="ditamap"/>
+
+   <!-- Competitive Research -->
+
+   <!-- Migration Proposals -->
+   <topicref href="research_proposals/mapgen_research_proposals.ditamap" format="ditamap"/>
+      <topicref href="research_competitive/mapgen_research_competitive.ditamap" format="ditamap"/>
+
+
+
+ </topicref>
+</map>
