@@ -2,23 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Research Phase</title>
- <!-- Key definition for the name of this migration phase -->  
-   <keydef keys="name_migration-phase-1">
-      <topicmeta>
-         <keywords>
-            <keyword>Research Phase</keyword>
-         </keywords>
-      </topicmeta>
-   </keydef>
-   
- <!-- Key definition for the name of the sponsoring organization. -->  
-   <keydef keys="name_migration-guide-sponsor">
-      <topicmeta>
-         <keywords>
-            <keyword>TBD-Sponsor</keyword>
-         </keywords>
-      </topicmeta>
-   </keydef>
 
 <!-- Topics -->
    <topicref href="research_intro/research_intro_top.dita">
