@@ -1,4 +1,4 @@
-#DITA Migration Guide
+# DITA Migration Guide
 
 This project is an experiment in information 
 sharing and development inspired by the OASIS DITA Adoption
