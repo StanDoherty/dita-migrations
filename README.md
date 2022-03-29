@@ -23,4 +23,8 @@ stan@modularwriting.com
 | Header | Title   | Here's more |
 | Paragraph | Text    | And more |
 
-| | | |
+| syntax | column1 | column 3 |
+|---|---|--- |
+| abcd | 1234 |5678 |
+|  test1| 1234 | 000 |
+|  test2| 5678 | 11122 |
