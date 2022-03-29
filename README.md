@@ -18,4 +18,9 @@ INSERT GRAPHIC OF PHASED ADOPTION
 Stan Doherty
 stan@modularwriting.com
 
+| Syntax | Description | Test Text |
+| :---|  :---:  |   ---: |
+| Header | Title   | Here's more |
+| Paragraph | Text    | And more |
 
+| | | |
